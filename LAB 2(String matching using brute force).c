@@ -39,3 +39,8 @@ int main() {
 
     return 0;
 }
+
+output
+Enter the text: Hello, this is a simple example.
+Enter the pattern to search: simple
+Pattern found at index 18
