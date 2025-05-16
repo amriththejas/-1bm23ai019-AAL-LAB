@@ -40,3 +40,14 @@ int main() {
 
     return 0;
 }
+
+
+output 
+
+Enter number of elements: 4
+Enter 4 elements:
+9
+1
+3
+0
+Sorted array: 0 1 3 9 
