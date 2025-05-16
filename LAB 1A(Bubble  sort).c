@@ -42,3 +42,13 @@ int main() {
 
     return 0;
 }
+
+Output:
+Enter number of elements: 3
+Enter 3 elements:
+1
+9
+5
+Sorted array: 1 5 9 
+
+
