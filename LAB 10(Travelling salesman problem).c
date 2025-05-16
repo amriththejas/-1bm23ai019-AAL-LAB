@@ -40,3 +40,7 @@ int main() {
 
     return 0;
 }
+
+
+output
+Minimum cost of travelling all cities: 80
