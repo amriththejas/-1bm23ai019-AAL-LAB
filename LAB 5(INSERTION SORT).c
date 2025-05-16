@@ -28,3 +28,8 @@ int main() {
     printArray(arr, n);
     return 0;
 }
+
+
+output
+Original Array: 12 11 13 5 6
+Sorted Array: 5 6 11 12 13
